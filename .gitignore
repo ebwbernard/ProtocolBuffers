@@ -1,2 +1,7 @@
 .idea/
 
+#vscode settings 
+.settings
+.project
+.classpath
+
